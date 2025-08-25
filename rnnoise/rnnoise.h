@@ -1,3 +1,15 @@
+/*
+   ==============================================================================
+   This file is part of the rnnoise JUCE module.
+   Noise suppression module using RNNoise
+
+   See: https://github.com/ekrogh/rnnoise
+   ==============================================================================
+*/
+
+#include "denoise.h"
+#include "rnn.h"
+
 /* Copyright (c) 2018 Gregor Richards
  * Copyright (c) 2017 Mozilla */
 /*
