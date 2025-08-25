@@ -1,0 +1,8 @@
+ID:             rnnoise
+vendor:         ekrogh
+version:        1.0.0
+name:           RNNoise
+description:    Noise suppression module using RNNoise
+website:        https://github.com/ekrogh/rnnoise
+license:        BSD
+minimumCppStandard: 11
