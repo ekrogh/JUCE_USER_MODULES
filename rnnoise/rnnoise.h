@@ -1,3 +1,14 @@
+/** BEGIN_JUCE_MODULE_DECLARATION
+ID:             rnnoise
+vendor:         ekrogh
+version:        1.0.0
+name:           RNNoise
+description:    Noise suppression module using RNNoise
+website:        https://github.com/ekrogh/rnnoise
+license:        BSD
+minimumCppStandard: 11
+ END_JUCE_MODULE_DECLARATION
+*/
 /*
    ==============================================================================
    This file is part of the rnnoise JUCE module.
